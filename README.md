@@ -14,10 +14,20 @@ This project uses a simplified version of **Grover’s algorithm** to find a hid
 
 ---
 
-Key Features
--3-qubit quantum circuit
--Oracle with phase flip
--Grover-style diffusion
--Measurement with 100 shots
--Histogram & Bloch vector visualizations
+##  Key Features
+
+-  **3-qubit quantum circuit**  
+  A simple and efficient quantum system setup for experimentation.
+
+-  **Oracle with phase flip**  
+  Marks the hidden state using a Z-gate or custom gate logic.
+
+-  **Grover-style diffusion**  
+  Amplifies the probability of measuring the marked state.
+
+-  **Measurement with 100 shots**  
+  Collects meaningful statistical data to confirm the result.
+
+-  **Histogram & Bloch vector visualizations**  
+  Visual feedback to observe the probability distribution and quantum state evolution.
 
